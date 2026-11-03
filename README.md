@@ -6,7 +6,7 @@ The aim of this project is to recreate common C library functions and learn how 
 
 ## Features
 
-The project includes **33 functions** grouped into a few categories.
+The project includes **34 functions** grouped into a few categories.
 
 | Category | Functions |
 | --- | --- |
